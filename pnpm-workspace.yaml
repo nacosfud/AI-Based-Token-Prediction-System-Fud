@@ -1,0 +1,7 @@
+onlyBuiltDependencies:
+  - '@swc/core'
+  - '@tensorflow/tfjs-node'
+  - core-js
+  - esbuild
+  - keccak
+  - secp256k1
